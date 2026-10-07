@@ -1,3 +1,5 @@
+updated Oct 7th to create pull request
+
 Contact: Thomas Johnson thjohnson@microsoft.com
 
 # Scientific workflow GitHub workshop
